@@ -110,18 +110,6 @@ Full stack management system for an optical business — web and mobile, with ro
 
 ---
 
-### Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=juanesbrice11&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanesbrice11&layout=compact&theme=default&hide_border=true&langs_count=5)
-
-</div>
-
----
-
 <div align="center">
 
 Spanish — native &nbsp;·&nbsp; English — B2
